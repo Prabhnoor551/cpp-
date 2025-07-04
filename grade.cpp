@@ -7,7 +7,7 @@ int main()
     cout << "Enter number:";
     cin  >> a;
 
-    if(a>=90 && a<=100)
+    if(a>90 && a<100)
     {
         cout << "A";
     }
