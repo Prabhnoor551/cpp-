@@ -7,6 +7,7 @@ int main()
     cout << "Enter the number:";
     cin  >> a;
 
+    
     if(a>=0)
     {
         cout << "Positive";
